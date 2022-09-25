@@ -1,36 +1,36 @@
 [
     {
-      "_id": "633016fd947ffd490945bf8b",
+      "id": "633016fd947ffd490945bf8b",
       "price": 26,
       "name": "Arline Summers"
     },
     {
-      "_id": "633016fddc5743d5a12f295c",
+      "id": "633016fddc5743d5a12f295c",
       "price": 25,
       "name": "Hahn Webb"
     },
     {
-      "_id": "633016fde1ad6dde019030dd",
+      "id": "633016fde1ad6dde019030dd",
       "price": 30,
       "name": "Ruby Fry"
     },
     {
-      "_id": "633016fdd83fe9a84d1c60cd",
+      "id": "633016fdd83fe9a84d1c60cd",
       "price": 29,
       "name": "Zamora Parks"
     },
     {
-      "_id": "633016fd4412019daab0b48d",
+      "id": "633016fd4412019daab0b48d",
       "price": 23,
       "name": "Mcgowan Olsen"
     },
     {
-      "_id": "633016fdb39a70b9d126ec41",
+      "id": "633016fdb39a70b9d126ec41",
       "price": 23,
       "name": "Victoria Burch"
     },
     {
-      "_id": "633016fd50002bb90c0b119d",
+      "id": "633016fd50002bb90c0b119d",
       "price": 20,
       "name": "Oconnor Schwartz"
     }
